@@ -1,8 +1,7 @@
 
 
 <!-- GitHub Badges -->
-<img align="right" src="https://img.shields.io/github/followers/AndySchw?style=social" alt="GitHub followers">
-<img align="right" src="https://img.shields.io/github/stars/AndySchw?style=social" alt="GitHub stars">
+<img align="right" src="https://img.shields.io/github/followers/AndySchw?style=social" alt="GitHub followers"> <img align="right" src="https://img.shields.io/github/stars/AndySchw?style=social" alt="GitHub stars">
 
 ### Hallo zusammen! 👋
 
